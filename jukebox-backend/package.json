@@ -1,0 +1,46 @@
+{
+  "name": "jukebox-backend",
+  "version": "1.0.0",
+  "description": "\"Backend for Jukebox\"",
+  "main": "server/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hccummins/jukebox-backend.git"
+  },
+  "keywords": [
+    "jukebox",
+    "realtime",
+    "voting",
+    "social",
+    "streaming",
+    "music",
+    "game",
+    "room"
+  ],
+  "author": "hccummins",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hccummins/jukebox-backend/issues"
+  },
+  "homepage": "https://github.com/hccummins/jukebox-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-rate-limit": "^8.0.1",
+    "helmet": "^8.1.0",
+    "node": "^22.17.0",
+    "pusher": "^5.2.0",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.2.1",
+    "@types/uuid": "^10.0.0",
+    "nodemon": "^3.1.10",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  }
+}
