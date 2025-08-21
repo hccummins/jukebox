@@ -1734,6 +1734,7 @@ __metadata:
     eslint-plugin-react-hooks: ^5.2.0
     eslint-plugin-react-refresh: ^0.4.20
     globals: ^16.3.0
+    lucide-react: ^0.540.0
     react: ^19.1.1
     react-dom: ^19.1.1
     typescript: ~5.8.3
@@ -1781,6 +1782,15 @@ __metadata:
   version: 10.4.3
   resolution: "lru-cache@npm:10.4.3"
   checksum: 6476138d2125387a6d20f100608c2583d415a4f64a0fecf30c9e2dda976614f09cad4baa0842447bd37dd459a7bd27f57d9d8f8ce558805abd487c583f3d774a
+  languageName: node
+  linkType: hard
+
+"lucide-react@npm:^0.540.0":
+  version: 0.540.0
+  resolution: "lucide-react@npm:0.540.0"
+  peerDependencies:
+    react: ^16.5.1 || ^17.0.0 || ^18.0.0 || ^19.0.0
+  checksum: 353ae6ff0834e4401a4e60dd86fd15b7885d8632f2503d55853e23f57a4051291dec34d6b0cce9660e11af464a280c41ede60478d41402173e5154d95d782897
   languageName: node
   linkType: hard
 
