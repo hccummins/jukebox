@@ -1,3 +1,0 @@
-- [ ] Initialize fontend npm package
-- [ ] Setup TypesScript and ESLint
-- [ ] Identify and generate instructions to run
